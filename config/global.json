@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "RehabMe": {
+            "applicationId": "jix4a7ziO3LTyuL4PZ3IyyRUA7DmnwRO0zvka2z5", 
+            "masterKey": "6ZrSpuoNCys34D7fFmNMXflP4lBAfhecpQ09QwZR"
+        }, 
+        "_default": {
+            "link": "RehabMe"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
