@@ -8,7 +8,8 @@
 		tmpl_path: 'tmpls/',
 		tmpl_cache: false,
 		modal: "#events-modal",
-		day: 'now',
+		day: '2013-03-12',
+		// day: 'now',
 		onAfterEventsLoad: function(events) {
 			if(!events) {
 				return;
