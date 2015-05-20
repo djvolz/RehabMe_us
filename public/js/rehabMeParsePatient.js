@@ -78,7 +78,7 @@ $( document ).ready(function() {
 					date = performed[j];
 					console.log(date.getDate());
 
-					debugger;
+					// debugger;
 
 					var dateCol = date.getDate();
 					if (!data[dateCol]) { // if this is new data entry
@@ -92,7 +92,7 @@ $( document ).ready(function() {
 					date = performed[j];
 					console.log(date.getDate());
 
-					debugger;
+					// debugger;
 
 					var dateCol = date.getDate();
 					if (!data[dateCol]) { // if this is new data entry

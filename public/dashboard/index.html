@@ -1,20 +1,33 @@
 <!DOCTYPE html>
 <html>
     <head>
-      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+     <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-      <!-- <meta charset="utf-8"> -->
+
       <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
       <script type="text/javascript" src="http://www.parsecdn.com/js/parse-1.2.8.min.js"></script>
       <script type="text/JavaScript" src="../js/rehabMeParsePatient.js"></script>
 
       <script type="text/JavaScript" src="../js/rehabMeParseFunctions.js"></script>
 
+      <meta charset='utf-8' />
+
+          <title>RehabMe Dashboard</title>
+
       <!-- add countUp.js for the animated counter-->
+
+
     </head>
 
     <body>
-    <div class="container">
+
+
+       
+
+
+<div class="container">
       <h2>RehabMe</h2>
         <hr>
       <!-- add "close all" and "expand all" buttons (javascript) -->
@@ -22,21 +35,26 @@
       <a href="#" class="btn btn-default logOut">Log out</a> 
 
       <!-- <button id="logoutButton">Log Out</button> -->
+             
+                <!-- <div id='calendar'></div> -->
 
 
       <!-- end buttons -->
         <hr>
-      <div class="panel-group" id="accordion">
-        <div class="panel panel-default">
-          <a data-toggle="collapse" data-target="#collapse1" href="#collapse1" style="color:black">
-            <div class="panel-heading">
-              <h4 class="panel-title" style="color:black">
-                Exercise Update
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+          <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingOne">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  User Exercises
+                </a>
               </h4>
             </div>
-          </a>
-          <div id="collapse1" class="panel-collapse collapse">
-            <div class="panel-body">
+            <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+              <div class="panel-body">
+
+
+
               <!-- data -->
               <div class="datagrid">
               <!-- Submissions table -->
@@ -54,10 +72,12 @@
                 </center>
               </div>
               <div>
+
+
                 <hr>
                 <center>
                   <table width=55%>
-                    <tr><td>Demo Explanation</td></tr>
+                    <tr><td>Color Explanation</td></tr>
                     <tr><td>-</td></tr>
                     <tr><td>Table is color coded. <span style='background-color:#A5D6A7'>Green</span> means patient is performing well for a particular exercise or on a particular date. <span style='background-color:#E57373'>Red</span> means bad performance. <span style='background-color:#FFF59D'>Yellow</span> means OK, but needs improvement.</td></tr>
                     <tr><td>-</td></tr>
@@ -72,9 +92,11 @@
     </div>
 
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+       
 
+    
     <!-- add "close all" and "expand all" button (javascript) -->
     <script type='text/javascript'>
         $('.closeall').click(function(){
@@ -97,5 +119,6 @@
 
 
     </script>
+
     </body>
     </html>
