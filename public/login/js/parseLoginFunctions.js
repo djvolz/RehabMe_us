@@ -32,9 +32,10 @@ $( document ).ready(function() {
 		    user.signUp(null, {
 		        success: function( user ) {
 			        var currentUser = Parse.User.current();
+
 		        	// Redirect to a "logged in only" page
 		        	if( currentUser ) {
-						window.location="dashboard";
+						window.location="../dashboard";
 					}
 			     },
 			    error: function( user, error ) {
@@ -72,7 +73,7 @@ $( document ).ready(function() {
 				var currentUser = Parse.User.current();
 		        // Redirect to a "logged in only" page
 	        	if( currentUser ) {
-					window.location="dashboard";
+					window.location="../dashboard";
 				}
 			},
 			error: function(user, error) {
@@ -100,7 +101,7 @@ $( document ).ready(function() {
 					var currentUser = Parse.User.current();
 					// Redirect to a "logged in only" page
 					if( currentUser ) {
-						window.location="dashboard";
+						window.location="../dashboard";
 					}
 				},
 				 error: function( user, error ) {
@@ -122,7 +123,7 @@ $( document ).ready(function() {
 
 		//If the user is successfully logged out then redirect to homepage
 		if(!Parse.User.current()) {
-			window.location = "/";
+			window.location = "/login";
 		}
 	});
 

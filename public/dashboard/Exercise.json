@@ -1,0 +1,646 @@
+{ "results": [
+	{
+        "ACL": {
+            "enAa7i5ehb": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 2,
+        "createdAt": "2015-05-06T03:57:49.178Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "enAa7i5ehb"
+        },
+        "displayName": "Heel Cord Stretch",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-a4aa57fa-06ec-4c14-bd1a-901fb3f546cb-heel_cord_stretch.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-a4aa57fa-06ec-4c14-bd1a-901fb3f546cb-heel_cord_stretch.png"
+        },
+        "instructions": [
+            "Main muscles worked: Gastrocnemius-soleus complex",
+            "You should feel this stretch in your calf and into your heel",
+            "Equipment needed: None",
+            "• Stand facing a wall with your unaffected leg forward with a slight bend at the knee. Your affected leg is straight and behind you, with the heel flat and the toes pointed in slightly.",
+            "• Keep both heels flat on the floor and press your hips forward toward the wall.\n\n• Hold this stretch for 30 seconds and then relax for 30 seconds. Repeat."
+        ],
+        "name": "Heel Cord Stretch",
+        "objectId": "tou6u6rBnj",
+        "order": 2,
+        "performed": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:29:36.668Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:30:28.422Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-20T19:26:10.658Z"
+            }
+        ],
+        "referencingObject": "qgLe21xqmJ",
+        "timeRequired": 30,
+        "updatedAt": "2015-05-20T19:26:10.725Z"
+    },
+	{
+        "ACL": {
+            "18lltwxwWX": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 2,
+        "createdAt": "2015-05-05T19:21:05.649Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "18lltwxwWX"
+        },
+        "displayName": "Calf Raises",
+        "enabled": false,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-0b010d8b-d4e9-463d-9d8e-277124451f68-calf_raises.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-0b010d8b-d4e9-463d-9d8e-277124451f68-calf_raises.png"
+        },
+        "instructions": [
+            "Main muscles worked: Gastrocnemius-soleus complex",
+            "You should feel this exercise in your calf",
+            "Equipment needed: Chair for support",
+            "• Stand with your weight evenly distributed over both feet. Hold onto the back of a chair or a wall for balance.",
+            "• Bend your knee and bring your heel up towards your buttock.",
+            "• Gasp your ankle with your hand and gently pull your heel closer to your body.",
+            "• Hold this stretch for 30 to 60 seconds.",
+            "• Repeat with the opposite leg."
+        ],
+        "name": "Calf Raises",
+        "objectId": "Ip2SHGHFci",
+        "order": 0,
+        "performed": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-05T19:29:27.962Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-05T19:29:50.909Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-05T19:56:04.438Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-05T19:56:17.690Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-05T19:56:44.239Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-05T19:56:58.747Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-05T20:02:38.728Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:04:57.041Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:05:15.887Z"
+            }
+        ],
+        "referencingObject": "2OIr3Q47QY",
+        "skipped": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-05T19:31:48.306Z"
+            }
+        ],
+        "timeRequired": 30,
+        "updatedAt": "2015-05-06T00:07:11.982Z"
+    },
+	{
+        "ACL": {
+            "18lltwxwWX": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 3,
+        "createdAt": "2015-05-06T00:00:42.123Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "18lltwxwWX"
+        },
+        "displayName": "Hip Abduction",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-5cd118e6-eaf7-402a-803e-894151548988-hip_abduction.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-5cd118e6-eaf7-402a-803e-894151548988-hip_abduction.png"
+        },
+        "instructions": [
+            "Main muscles worked: Abductors, gluteus",
+            "You should feel this exercise at your outer thigh and buttock",
+            "Equipment needed: As the exercise becomes easier to perfrom, gradually increase the resistance by adding an ankle weight. Begin with a 5 lb. weight and gradually progress to agreater level of resistance, up to 10 lb. weight.",
+            "• Lie on your side with your injured leg on top and the bottom leg bent to provide support.",
+            "• Straighten your top leg and slowly raise it to 45 degree, keeping your knee straight, but not locked.",
+            "• Hold this position for 5 seconds.",
+            "• Lower your leg and relax it for 2 seconds. Repeat."
+        ],
+        "name": "Hip Abduction",
+        "objectId": "OEVsGUMLPU",
+        "order": 1,
+        "performed": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:04:41.536Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:04:57.972Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:05:45.213Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:07:14.893Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:07:21.666Z"
+            }
+        ],
+        "referencingObject": "RXxg7DrCtM",
+        "timeRequired": 5,
+        "updatedAt": "2015-05-06T00:07:21.729Z"
+    },
+	{
+        "ACL": {
+            "18lltwxwWX": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 3,
+        "createdAt": "2015-05-06T00:00:37.666Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "18lltwxwWX"
+        },
+        "displayName": "Leg Extensions",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-34f90451-7102-40c0-b240-6431a72b8876-leg_extensions.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-34f90451-7102-40c0-b240-6431a72b8876-leg_extensions.png"
+        },
+        "instructions": [
+            "Main muscles worked: Quadriceps",
+            "You should feel this exercise at the front of your thigh",
+            "Equipment needed: As the exercise becomes easier to perfrom, gradually increase the resistance by adding an ankle weight. Begin with a 5 lb. weight and gradually progress to agreater level of resistance, up to 10 lb. weight. If you have access to a fitness center, this exercise can also be performed on a weight machine. A fitness assistant at your gym can instruct you on how to use the machines safely.",
+            "• Sit up straight on a chair or bench.",
+            "• Tighten your thigh muscles and slowly straighten and raise your affected leg as high as possible.",
+            "• Squeeze your thigh muscles and hold this position for 5 seconds Relax and bring your foot to the floor. Repeat."
+        ],
+        "name": "Leg Extensions",
+        "objectId": "fowtmpSdiD",
+        "order": 2,
+        "performed": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:04:58.696Z"
+            }
+        ],
+        "referencingObject": "fKAIoUKbl1",
+        "skipped": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:04:42.428Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:05:45.797Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:07:15.385Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-06T00:07:22.133Z"
+            }
+        ],
+        "timeRequired": 5,
+        "updatedAt": "2015-05-06T00:07:22.196Z"
+    },
+	{
+        "ACL": {
+            "Tx4MjRWpm6": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 2,
+        "createdAt": "2015-05-12T02:32:08.404Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Tx4MjRWpm6"
+        },
+        "displayName": "Calf Raises",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-0b010d8b-d4e9-463d-9d8e-277124451f68-calf_raises.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-0b010d8b-d4e9-463d-9d8e-277124451f68-calf_raises.png"
+        },
+        "instructions": [
+            "Main muscles worked: Gastrocnemius-soleus complex",
+            "You should feel this exercise in your calf",
+            "Equipment needed: Chair for support",
+            "• Stand with your weight evenly distributed over both feet. Hold onto the back of a chair or a wall for balance.",
+            "• Bend your knee and bring your heel up towards your buttock.",
+            "• Gasp your ankle with your hand and gently pull your heel closer to your body.",
+            "• Hold this stretch for 30 to 60 seconds.",
+            "• Repeat with the opposite leg."
+        ],
+        "name": "Calf Raises",
+        "objectId": "Du6yypkZP2",
+        "order": 1,
+        "referencingObject": "2OIr3Q47QY",
+        "skipped": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T02:35:47.493Z"
+            }
+        ],
+        "timeRequired": 30,
+        "updatedAt": "2015-05-18T20:08:22.924Z"
+    },
+	{
+        "ACL": {
+            "Tx4MjRWpm6": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 3,
+        "createdAt": "2015-05-12T02:32:10.088Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Tx4MjRWpm6"
+        },
+        "displayName": "Hamstring Curls",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-fd37ba1e-5ca3-450b-ad95-481fdd1aaaab-hamstring_curls.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-fd37ba1e-5ca3-450b-ad95-481fdd1aaaab-hamstring_curls.png"
+        },
+        "instructions": [
+            "Main muscles worked: Hamstrings",
+            "You should feel this exercise at the back of your thigh",
+            "Equipment needed: As the exercise becomes easier to perfrom, gradually increase the resistance by adding an ankle weight. Begin with a 5 lb. weight and gradually progress to agreater level of resistance, up to 10 lb. weight. If you have access to a fitness center, this exercise can also be performed on a weight machine. A fitness assistant at your gym can instruct you on how to use the machines safely.",
+            "• Hold on to the back of a chair or a wall for balance.",
+            "• Bend your affected knee and raise your heel toward the ceiling as far as possible without pain.",
+            "• Hold this position for 5 seconds and then relax. Repeat."
+        ],
+        "name": "Hamstring Curls",
+        "objectId": "PcurJxDPF7",
+        "order": 2,
+        "performed": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-15T13:58:12.503Z"
+            }
+        ],
+        "referencingObject": "8c1qq0SfoK",
+        "skipped": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T02:35:40.691Z"
+            }
+        ],
+        "timeRequired": 5,
+        "updatedAt": "2015-05-18T20:08:23.043Z"
+    },
+	{
+        "ACL": {
+            "Tx4MjRWpm6": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 2,
+        "createdAt": "2015-05-12T02:32:11.843Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Tx4MjRWpm6"
+        },
+        "displayName": "Heel Cord Stretch",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-a4aa57fa-06ec-4c14-bd1a-901fb3f546cb-heel_cord_stretch.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-a4aa57fa-06ec-4c14-bd1a-901fb3f546cb-heel_cord_stretch.png"
+        },
+        "instructions": [
+            "Main muscles worked: Gastrocnemius-soleus complex",
+            "You should feel this stretch in your calf and into your heel",
+            "Equipment needed: None",
+            "• Stand facing a wall with your unaffected leg forward with a slight bend at the knee. Your affected leg is straight and behind you, with the heel flat and the toes pointed in slightly.",
+            "• Keep both heels flat on the floor and press your hips forward toward the wall.\n\n• Hold this stretch for 30 seconds and then relax for 30 seconds. Repeat."
+        ],
+        "name": "Heel Cord Stretch",
+        "objectId": "1aTAylAl2R",
+        "order": 0,
+        "referencingObject": "qgLe21xqmJ",
+        "skipped": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T02:35:48.200Z"
+            }
+        ],
+        "timeRequired": 30,
+        "updatedAt": "2015-05-18T20:08:22.784Z"
+    },
+	{
+        "ACL": {
+            "Tx4MjRWpm6": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 3,
+        "createdAt": "2015-05-12T02:32:22.465Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Tx4MjRWpm6"
+        },
+        "displayName": "Hip Abduction",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-5cd118e6-eaf7-402a-803e-894151548988-hip_abduction.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-5cd118e6-eaf7-402a-803e-894151548988-hip_abduction.png"
+        },
+        "instructions": [
+            "Main muscles worked: Abductors, gluteus",
+            "You should feel this exercise at your outer thigh and buttock",
+            "Equipment needed: As the exercise becomes easier to perfrom, gradually increase the resistance by adding an ankle weight. Begin with a 5 lb. weight and gradually progress to agreater level of resistance, up to 10 lb. weight.",
+            "• Lie on your side with your injured leg on top and the bottom leg bent to provide support.",
+            "• Straighten your top leg and slowly raise it to 45 degree, keeping your knee straight, but not locked.",
+            "• Hold this position for 5 seconds.",
+            "• Lower your leg and relax it for 2 seconds. Repeat."
+        ],
+        "name": "Hip Abduction",
+        "objectId": "lhrKmRchHU",
+        "order": 3,
+        "referencingObject": "RXxg7DrCtM",
+        "skipped": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T02:35:48.760Z"
+            }
+        ],
+        "timeRequired": 5,
+        "updatedAt": "2015-05-18T20:08:23.645Z"
+    },
+	{
+        "ACL": {
+            "enAa7i5ehb": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 3,
+        "createdAt": "2015-05-06T03:57:48.369Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "enAa7i5ehb"
+        },
+        "displayName": "Hamstring Curls",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-fd37ba1e-5ca3-450b-ad95-481fdd1aaaab-hamstring_curls.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-fd37ba1e-5ca3-450b-ad95-481fdd1aaaab-hamstring_curls.png"
+        },
+        "instructions": [
+            "Main muscles worked: Hamstrings",
+            "You should feel this exercise at the back of your thigh",
+            "Equipment needed: As the exercise becomes easier to perfrom, gradually increase the resistance by adding an ankle weight. Begin with a 5 lb. weight and gradually progress to agreater level of resistance, up to 10 lb. weight. If you have access to a fitness center, this exercise can also be performed on a weight machine. A fitness assistant at your gym can instruct you on how to use the machines safely.",
+            "• Hold on to the back of a chair or a wall for balance.",
+            "• Bend your affected knee and raise your heel toward the ceiling as far as possible without pain.",
+            "• Hold this position for 5 seconds and then relax. Repeat."
+        ],
+        "name": "Hamstring Curls",
+        "objectId": "5r8whCSXzQ",
+        "order": 1,
+        "performed": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:29:35.449Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:32:09.104Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-20T19:26:10.107Z"
+            }
+        ],
+        "referencingObject": "8c1qq0SfoK",
+        "skipped": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:30:27.952Z"
+            }
+        ],
+        "timeRequired": 5,
+        "updatedAt": "2015-05-20T19:26:10.178Z"
+    },
+	{
+        "ACL": {
+            "enAa7i5ehb": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 2,
+        "createdAt": "2015-05-06T03:57:47.181Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "enAa7i5ehb"
+        },
+        "displayName": "Calf Raises",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-0b010d8b-d4e9-463d-9d8e-277124451f68-calf_raises.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-0b010d8b-d4e9-463d-9d8e-277124451f68-calf_raises.png"
+        },
+        "instructions": [
+            "Main muscles worked: Gastrocnemius-soleus complex",
+            "You should feel this exercise in your calf",
+            "Equipment needed: Chair for support",
+            "• Stand with your weight evenly distributed over both feet. Hold onto the back of a chair or a wall for balance.",
+            "• Bend your knee and bring your heel up towards your buttock.",
+            "• Gasp your ankle with your hand and gently pull your heel closer to your body.",
+            "• Hold this stretch for 30 to 60 seconds.",
+            "• Repeat with the opposite leg."
+        ],
+        "name": "Calf Raises",
+        "objectId": "mbfCtNRm1U",
+        "order": 3,
+        "performed": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-20T19:26:11.226Z"
+            }
+        ],
+        "referencingObject": "2OIr3Q47QY",
+        "skipped": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:29:37.504Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:30:29.034Z"
+            }
+        ],
+        "timeRequired": 30,
+        "updatedAt": "2015-05-20T19:26:11.296Z"
+    },
+	{
+        "ACL": {
+            "enAa7i5ehb": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 3,
+        "createdAt": "2015-05-06T03:57:47.825Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "enAa7i5ehb"
+        },
+        "displayName": "Half Squats",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-de37fdcc-49eb-4f5c-b3a3-4bb332c02ad8-half_squats.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-de37fdcc-49eb-4f5c-b3a3-4bb332c02ad8-half_squats.png"
+        },
+        "instructions": [
+            "Main muscles worked: Quadriceps, gluteus, hamstrings",
+            "You should feel this exercise at the front and back of your thighs, and your buttocks",
+            "Equipment needed: As the exercise becomes easier to perform, gradually increase the resistance by holding hand weights. Begin with 5 lb. weights and gradually progress to a greater level of resistance, up to 10 lb. weights.",
+            "• Stand with your feet shoulder distance apart. Your hands can rest on the front of your thighs or reach in front of you. If needed, hold on to the back of a chair or wall for balance.",
+            "• Keep your chest lifted and slowly lower your hips about 10 inches, as if you are sitting down into a chair.",
+            "• Plant your weight in your heels and hold the squat for 5 seconds.",
+            "• Push through your heels and bring your body back up to standing."
+        ],
+        "name": "Half Squats",
+        "objectId": "T8INsPEHgq",
+        "order": 0,
+        "performed": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:29:32.911Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:31:42.741Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:32:08.655Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-20T19:26:09.425Z"
+            }
+        ],
+        "referencingObject": "vuSkWj54YM",
+        "skipped": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T14:30:27.281Z"
+            }
+        ],
+        "timeRequired": 30,
+        "updatedAt": "2015-05-20T19:26:09.528Z"
+    },
+	{
+        "ACL": {
+            "Tx4MjRWpm6": {
+                "read": true,
+                "write": true
+            }
+        },
+        "count": 3,
+        "createdAt": "2015-05-12T02:32:09.043Z",
+        "createdBy": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Tx4MjRWpm6"
+        },
+        "displayName": "Half Squats",
+        "enabled": true,
+        "imageFile": {
+            "__type": "File",
+            "name": "tfss-de37fdcc-49eb-4f5c-b3a3-4bb332c02ad8-half_squats.png",
+            "url": "http://files.parsetfss.com/d531c601-ccbe-4b51-b369-7e192864f0a6/tfss-de37fdcc-49eb-4f5c-b3a3-4bb332c02ad8-half_squats.png"
+        },
+        "instructions": [
+            "Main muscles worked: Quadriceps, gluteus, hamstrings",
+            "You should feel this exercise at the front and back of your thighs, and your buttocks",
+            "Equipment needed: As the exercise becomes easier to perform, gradually increase the resistance by holding hand weights. Begin with 5 lb. weights and gradually progress to a greater level of resistance, up to 10 lb. weights.",
+            "• Stand with your feet shoulder distance apart. Your hands can rest on the front of your thighs or reach in front of you. If needed, hold on to the back of a chair or wall for balance.",
+            "• Keep your chest lifted and slowly lower your hips about 10 inches, as if you are sitting down into a chair.",
+            "• Plant your weight in your heels and hold the squat for 5 seconds.",
+            "• Push through your heels and bring your body back up to standing."
+        ],
+        "name": "Half Squats",
+        "objectId": "lmJY8SCrT7",
+        "order": 4,
+        "referencingObject": "vuSkWj54YM",
+        "skipped": [
+            {
+                "__type": "Date",
+                "iso": "2015-05-12T02:35:49.519Z"
+            },
+            {
+                "__type": "Date",
+                "iso": "2015-05-15T13:58:26.666Z"
+            }
+        ],
+        "timeRequired": 30,
+        "updatedAt": "2015-05-18T20:08:23.202Z"
+    }
+] }

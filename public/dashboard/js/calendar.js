@@ -46,9 +46,9 @@ if(!String.prototype.formatNum) {
 		// Initial date. No matter month, week or day this will be a starting point. Can be 'now' or a date in format 'yyyy-mm-dd'
 		day:                'now',
 		// Day Start time and end time with time intervals. Time split 10, 15 or 30.
-		time_start:         '06:00',
-		time_end:           '22:00',
-		time_split:         '30',
+		time_start:         '0:00',
+		time_end:           '23:59',
+		time_split:         '10',
 		// Source of events data. It can be one of the following:
 		// - URL to return JSON list of events in special format.
 		//   {success:1, result: [....]} or for error {success:0, error:'Something terrible happened'}
@@ -853,6 +853,7 @@ if(!String.prototype.formatNum) {
 			warn('The events_url option is DEPRECATED and it will be REMOVED in near future. Please use events_source instead.');
 		}
 		var loader;
+
 		switch($.type(source)) {
 			case 'function':
 				loader = function() {
