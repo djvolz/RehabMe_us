@@ -238,7 +238,7 @@ hr.small {
 .parallax-window {
     min-height: 400px;
     background: transparent;
-    
+
 
     display: table;
     width: 100%;
@@ -256,6 +256,11 @@ hr.small {
         height: 75%;
     }
 }
+
+/* Links */
+a { 
+    color: #3BB45D; 
+} 
 
 /* Footer */
 
