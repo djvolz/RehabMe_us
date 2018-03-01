@@ -1,7 +1,7 @@
 # RehabMe_us
 RehabMe Website
 
-# [Project Depreacted]
+# [Project Deprecated]
 I no longer actively maintain this project, but I'm leaving it up for anyone to use in the future. Enjoy!
 
 NOTE: I no longer host or own rehame.us. I'm leaving the code up as an example for anyone it can help.
